@@ -4,5 +4,5 @@
 
 ### Sort
 
-#### Bubble Sort
+- [Bubble Sort](sort/bubble/bubble_sort.md)
 
