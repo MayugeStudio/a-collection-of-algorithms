@@ -5,4 +5,5 @@
 ### Sort
 
 - [Bubble Sort](sort/bubble/bubble_sort.md)
+- [Merge Sort](sort/merge/merge_sort.md)
 
